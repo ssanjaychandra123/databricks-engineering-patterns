@@ -1,21 +1,17 @@
-# License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 Copyright (c) 2026 Sanjay Chandra
 
-These materials (the PDF books and accompanying content in this repository) are provided for free for personal, educational, and noncommercial use.
-
 You are free to:
 
-* Download and read the material
-* Share links to this repository
-* Reference the material with attribution
+Share. Copy and distribute this material in any medium or format.
 
-You may not:
+Adapt. Remix, transform, and build upon this material for any purpose.
 
-* Sell, sublicense, or redistribute the files for commercial purposes
-* Repackage the content as your own
-* Remove author attribution
+Under the following terms:
 
-For permissions beyond this license, contact the author via [LinkedIn](https://www.linkedin.com/in/ssanjaychandra/).
+Attribution. You must give appropriate credit to Sanjay Chandra, provide a link to this repository, and indicate if changes were made. You may not suggest that Sanjay Chandra endorses you or your use.
 
-All rights reserved where applicable.
+No additional restrictions. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/

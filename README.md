@@ -66,6 +66,10 @@ Found a gap or something that has moved on? Open an issue. These platforms evolv
 
 ---
 
+Compiled with Claude by Anthropic as a writing and research assistant. Every pattern was reviewed, edited, and validated by Sanjay Chandra.
+
+---
+
 Sanjay Chandra builds and advises on enterprise data platforms. If your team is wrestling with one of these problems at scale, let us talk.
 
 [LinkedIn](https://www.linkedin.com/in/ssanjaychandra/) · [ssanjaychandra.com](http://www.ssanjaychandra.com)
